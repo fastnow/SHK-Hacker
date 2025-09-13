@@ -1,2 +1,4 @@
 # SHK-Hacker
 SHK 作弊脚本是专为 Yp3D-Ships3D 游戏设计的用户脚本，提供了一系列增强功能，包括准星显示、移动增强和生存辅助等
+---
+访问 https://fastnow.github.io/SHK.html 以获得更多帮助
