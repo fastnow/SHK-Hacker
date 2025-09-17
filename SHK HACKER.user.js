@@ -3,8 +3,10 @@
 // @namespace    https://fastnow.github.io
 // @icon         https://fastnow.github.io/favicon.ico
 // @version      2.5.1
-// @description  适用于YP3D-SPIS3D的油篡改猴作弊脚本。确保在脚本加载完成之前不要进入任何服务器。如有不想等待页面刷新的，可在进入服务器后等待页面加载完成后退出服务器并重进以启用脚本。''\\"显示UI。
+// @description  适用于YP3D-SPIS3D的油篡改猴作弊脚本。FastNow 工作室为您保驾护航，期待下次与你重逢:D
 // @author       FastNow Studio
+// @license      BSD-3-Clause
+// @supportURL   https://github.com/fastnow/SHK-Mod
 // @match        *://yp3d.com/ships3d/*
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/fastnow/SHK-Mod/main/SHK%20HACKER.user.js
